@@ -1,0 +1,27 @@
+.li-container {
+  display: flex;
+  align-items: center;
+  background-color: #1e293b;
+  opacity: 0.5;
+  border-radius: 10px;
+  justify-content: space-evenly;
+  box-shadow: #ffffff 0px 1px 0px 1px;
+  list-style-type: none;
+  margin: 10px;
+  text-decoration: none;
+  width: 40%;
+}
+.li-content {
+  display: flex;
+  align-items: center;
+}
+.team-img-logo {
+  width: 120px;
+}
+.team-name {
+  color: white;
+  font-family: 'roboto';
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
